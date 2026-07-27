@@ -2,7 +2,7 @@
 <h3 align="center">AI Engineer | Data Analyst | Data Scientist</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Building+intelligent+systems+with+data;Machine+Learning+%7C+Deep+Learning+%7C+NLP;Turning+raw+data+into+real+insights;Always+learning%2C+always+building" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=6366F1&center=true&vCenter=true&width=750&lines=Building+intelligent+systems+with+data;Machine+Learning+%7C+Deep+Learning+%7C+NLP;Turning+raw+data+into+real+insights;Always+learning%2C+always+building" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -44,6 +44,27 @@
 
 ---
 
+### 🔥 Featured Projects
+
+<p align="center">
+  <a href="https://github.com/harshitt2023/recalliq">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=harshitt2023&repo=recalliq&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/harshitt2023/campus-rave-student-management">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=harshitt2023&repo=campus-rave-student-management&theme=tokyonight&hide_border=true" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/harshitt2023/file-vault-manager">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=harshitt2023&repo=file-vault-manager&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/harshitt2023/SHL-assessment-agent">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=harshitt2023&repo=SHL-assessment-agent&theme=tokyonight&hide_border=true" />
+  </a>
+</p>
+
+---
+
 ### 📊 GitHub Stats
 
 <p align="center">
@@ -52,16 +73,14 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshitt2023&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=harshitt2023&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=harshitt2023&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=harshitt2023&theme=tokyo-night&hide_border=true" />
-</p>
+> 💡 If any stat card above shows a "Failed to retrieve" error, it's usually a temporary rate-limit on the free stats API — refreshing the page or waiting a bit fixes it. It's not something wrong in your file.
 
 ---
 
