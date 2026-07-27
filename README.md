@@ -1,21 +1,40 @@
-<h1 align="center">Hi, I'm Harshit Singh 👋</h1>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=6366F1&center=true&vCenter=true&width=800&lines=AI%2FML+Engineer+%7C+Generative+AI+%26+LLMs;RLHF+%7C+Fine-Tuning+%7C+Prompt+Engineering;Full-Stack+Developer+%7C+Python+%2F+Next.js+%2F+PostgreSQL;Turning+data+into+working+AI+products" alt="Typing SVG" />
+<h1>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2800&pause=1000&color=6366F1&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B+I'm+Harshit+Singh;AI%2FML+Engineer+%7C+Generative+AI+%26+LLMs;RLHF+%7C+Fine-Tuning+%7C+Prompt+Engineering;Turning+Data+into+Working+AI+Products" alt="Typing Animation" />
+</h1>
+
+<p>
+  <a href="mailto:harshits0421@gmail.com"><img src="https://img.shields.io/badge/📧_Email-harshits0421@gmail.com-blue?style=for-the-badge"/></a>
+  <a href="https://github.com/harshitt2023"><img src="https://img.shields.io/badge/GitHub-harshitt2023-black?style=for-the-badge&logo=github"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Portfolio-View-6366F1?style=for-the-badge&logo=githubpages&logoColor=white"/></a>
 </p>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6366F1,100:8A2BE2&height=3" width="100%"/>
+
+</div>
 
 ---
 
 ## 🧠 About Me
 
-🎓 **B.Tech in Computer Science Engineering (AI & ML Specialization) @ NIET, Greater Noida** *(2022–2026)* 🤖 Hands-on experience in **RLHF, Supervised Fine-Tuning, and LLM evaluation** from real post-training work at Ethara AI. 🚀 Building **full-stack AI products** end-to-end — from RecallIQ, an AI study assistant with LLM-powered flashcards and quizzes, to MediNow, a full-stack telemedicine platform. 🧩 Focused on **Generative AI, RAG pipelines, and agentic workflows**. 💡 Goal: engineer AI systems that don't just predict — they ship as real, working products.
+🎓 **B.Tech in Computer Science Engineering (AI & ML Specialization) @ NIET, Greater Noida** *(2022–2026)*
+🤖 Hands-on experience in **RLHF, Supervised Fine-Tuning, and LLM evaluation** from real post-training work at Ethara AI.
+🚀 Building **full-stack AI products** end-to-end — from RecallIQ, an AI study assistant with LLM-powered flashcards and quizzes, to MediNow, a full-stack telemedicine platform.
+🧩 Focused on **Generative AI, RAG pipelines, and agentic workflows**.
+💡 Goal: engineer AI systems that don't just predict — they ship as real, working products.
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6366F1,100:8A2BE2&height=3" width="100%"/>
 
 ---
 
 ## 🧩 Tech Stack & Skills
 
+<div align="center">
+
 | Category | Tools & Technologies |
-|---|---|
+|----------|----------------------|
 | 💻 **Programming & Databases** | Python 🐍 • SQL • C++ • PostgreSQL • MySQL • Git • GitHub |
 | 🤖 **Machine Learning** | Scikit-learn • Supervised & Unsupervised Learning • Feature Engineering • Model Evaluation |
 | 🧠 **Generative AI & LLMs** | Prompt Engineering • RAG • RLHF • Supervised Fine-Tuning (SFT) • LLM Evaluation • Data Annotation |
@@ -23,37 +42,69 @@
 | 🌐 **Full-Stack Development** | Next.js • React.js • Tailwind CSS • FastAPI • REST APIs |
 | ⚙️ **Tools & Platforms** | VS Code • Jupyter Notebook • Groq/Llama 3.3 • Vonage API |
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6366F1,100:8A2BE2&height=3" width="100%"/>
+
 ---
 
 ## 💼 Experience
 
-**LLM Post-Training Intern — Ethara AI** *(Feb 2026 – Jun 2026)*
-- Worked on LLM post-training tasks including RLHF, Supervised Fine-Tuning (SFT), prompt engineering, response evaluation, and data annotation
-- Assisted fine-tuning workflows by reviewing datasets and validating model outputs
-- Evaluated AI-generated responses for instruction-following, factual accuracy, and reasoning quality
+### **LLM Post-Training Intern — Ethara AI** *(Feb 2026 – Jun 2026)*
+- Worked on LLM post-training tasks including **RLHF, Supervised Fine-Tuning (SFT)**, prompt engineering, response evaluation, and data annotation.
+- Assisted fine-tuning workflows by reviewing datasets and validating model outputs.
+- Evaluated AI-generated responses for **instruction-following, factual accuracy, and reasoning quality**.
 
-**AIML Intern — ScholarRank AI** *(May 2025 – Nov 2025)*
-- Built ML workflows covering data preprocessing, feature engineering, and model training with Python and Scikit-learn
-- Improved AI model performance for educational ranking systems using real-world datasets
-- Performed EDA, model evaluation, and prediction optimization
+### **AIML Intern — ScholarRank AI** *(May 2025 – Nov 2025)*
+- Built ML workflows covering **data preprocessing, feature engineering, and model training** with Python and Scikit-learn.
+- Improved AI model performance for educational ranking systems using real-world datasets.
+- Performed **EDA, model evaluation, and prediction optimization**.
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🔹 RecallIQ — AI-Powered Study Assistant
+---
+
+### 🔹 RecallIQ – AI-Powered Study Assistant
 **Tech:** Python • FastAPI • Pydantic • Groq/Llama 3.3 • PyMuPDF
 
-- Built a full-stack AI study tool that converts PDFs into auto-generated summaries, flashcards, and quizzes using LLM-based structured output
-- Designed a topic-tagging pipeline combining PDF heading detection with LLM auto-tagging for per-topic weak-area analysis after each quiz
-- Implemented a FastAPI backend with background task processing, replacing an initial Streamlit prototype to demonstrate full-stack ownership
+- Built a **full-stack AI study tool** that converts PDFs into auto-generated summaries, flashcards, and quizzes using LLM-based structured output.
+- Designed a **topic-tagging pipeline** combining PDF heading detection with LLM auto-tagging for per-topic weak-area analysis after each quiz.
+- Implemented a **FastAPI backend** with background task processing, replacing an initial Streamlit prototype to demonstrate full-stack ownership.
 
-### 🔹 MediNow — AI-Enabled Health-Tech Platform
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Groq-F54E27?style=for-the-badge&logo=groq&logoColor=white"/>
+</p>
+
+---
+
+### 🔹 MediNow – AI-Enabled Health-Tech Platform
 **Tech:** Next.js • PostgreSQL • Tailwind CSS • Vonage API
 
-- Built a telemedicine and doctor appointment platform with secure video consultations
-- Developed appointment booking and doctor management workflows
-- Designed scalable REST API integrations with a responsive full-stack architecture
+- Built a **telemedicine and doctor appointment platform** with secure video consultations.
+- Developed **appointment booking and doctor management workflows**.
+- Designed **scalable REST API integrations** with a responsive full-stack architecture.
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+</p>
 
 ---
 
@@ -68,32 +119,37 @@
 
 ## 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://img.shields.io/github/followers/harshitt2023?style=for-the-badge&color=6366F1&logo=github&labelColor=181717" />
-  <img src="https://img.shields.io/github/stars/harshitt2023?style=for-the-badge&color=6366F1&logo=github&labelColor=181717" />
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Top_Language-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Focus-AI%2FML%20%26%20GenAI-6366F1?style=for-the-badge" />
-</p>
+<div align="center">
 
-<!-- Live stats (may occasionally fail to load if the free API is rate-limited): -->
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=harshitt2023&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshitt2023&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+<img src="https://img.shields.io/github/followers/harshitt2023?style=for-the-badge&color=6366F1&logo=github&labelColor=181717" />
+<img src="https://img.shields.io/github/stars/harshitt2023?style=for-the-badge&color=6366F1&logo=github&labelColor=181717" />
+
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=harshitt2023&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshitt2023&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
+
+</div>
+
+<sub>Note: the two cards above pull live from a free third-party stats API that occasionally rate-limits and shows a broken image — that's the API, not your file. The badges above them always render.</sub>
 
 ---
 
 ## 💬 Connect With Me
 
 <p align="center">
-  <a href="https://github.com/harshitt2023" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=vercel&logoColor=white"></a>
-  <a href="mailto:harshits0421@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="mailto:harshits0421@gmail.com"><img src="https://img.shields.io/badge/Email-6366F1?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/harshitt2023"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Portfolio-8A2BE2?style=for-the-badge&logo=githubpages&logoColor=white"/></a>
 </p>
 
-<p align="center">
-  <em>⚡ "Building AI systems that don't just predict — they decide, act, and ship."</em>
-</p>
+---
+
+<div align="center">
+
+### ⚡ *"Building AI systems that don't just predict — they decide, act, and ship."*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:6366F1,100:8A2BE2&section=footer"/>
+
+</div>
