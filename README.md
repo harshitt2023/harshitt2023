@@ -150,9 +150,9 @@
 
 <p align="center">
   <a href="mailto:harshits0421@gmail.com"><img src="https://img.shields.io/badge/Email-6366F1?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/harshit2821/"><img src="https://img.shields.io/badge/LinkedIn-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/harshitt2023"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Portfolio-8A2BE2?style=for-the-badge&logo=githubpages&logoColor=white"/></a>
+  <a href="https://portfolio-delta-five-i16a299l4b.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-8A2BE2?style=for-the-badge&logo=githubpages&logoColor=white"/></a>
 </p>
 
 ---
