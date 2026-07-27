@@ -7,8 +7,8 @@
 <p>
   <a href="mailto:harshits0421@gmail.com"><img src="https://img.shields.io/badge/📧_Email-harshits0421@gmail.com-blue?style=for-the-badge"/></a>
   <a href="https://github.com/harshitt2023"><img src="https://img.shields.io/badge/GitHub-harshitt2023-black?style=for-the-badge&logo=github"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Portfolio-View-6366F1?style=for-the-badge&logo=githubpages&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/harshit2821/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/></a>
+  <a href="https://portfolio-delta-five-i16a299l4b.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-View-6366F1?style=for-the-badge&logo=githubpages&logoColor=white"/></a>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6366F1,100:8A2BE2&height=3" width="100%"/>
