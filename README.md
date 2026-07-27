@@ -26,7 +26,7 @@
 🚀 Goal: engineer AI systems that don't just predict — they ship as real, working products.
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212751818-13da6fd2-27ca-45c4-9c64-3940ccfa6fd3.gif" width="350px" />
+  <img src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif" width="380px" />
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6366F1,100:8A2BE2&height=3" width="100%"/>
@@ -150,9 +150,9 @@
 
 <p align="center">
   <a href="mailto:harshits0421@gmail.com"><img src="https://img.shields.io/badge/Email-6366F1?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/harshit2821/"><img src="https://img.shields.io/badge/LinkedIn-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/harshitt2023"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://portfolio-delta-five-i16a299l4b.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-8A2BE2?style=for-the-badge&logo=githubpages&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Portfolio-8A2BE2?style=for-the-badge&logo=githubpages&logoColor=white"/></a>
 </p>
 
 ---
