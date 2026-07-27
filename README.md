@@ -26,7 +26,8 @@
 🚀 Goal: engineer AI systems that don't just predict — they ship as real, working products.
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212750999-42ff8a64-dad8-4772-9648-849968543991.gif" width="350px" />
+  <img src="https://user-images.githubusercontent.com/74038190/212751818-13da6fd2-27ca-45c4-9c64-3940ccfa6fd3.gif" width="350px" />
+</div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6366F1,100:8A2BE2&height=3" width="100%"/>
 
