@@ -8,11 +8,7 @@
 
 ## 🧠 About Me
 
-- 🎓 B.Tech in Computer Science Engineering (AI & ML Specialization) @ NIET, Greater Noida (2022–2026)
-- 🤖 Hands-on experience in **RLHF, Supervised Fine-Tuning, and LLM evaluation**
-- 🧩 Building full-stack AI products end-to-end — not just notebooks
-- 📚 Focused on Generative AI, RAG pipelines, and agentic workflows
-- 🚀 Goal: ship real AI systems that people actually use
+🎓 **B.Tech in Computer Science Engineering (AI & ML Specialization) @ NIET, Greater Noida** *(2022–2026)* 🤖 Hands-on experience in **RLHF, Supervised Fine-Tuning, and LLM evaluation** from real post-training work at Ethara AI. 🚀 Building **full-stack AI products** end-to-end — from RecallIQ, an AI study assistant with LLM-powered flashcards and quizzes, to MediNow, a full-stack telemedicine platform. 🧩 Focused on **Generative AI, RAG pipelines, and agentic workflows**. 💡 Goal: engineer AI systems that don't just predict — they ship as real, working products.
 
 ---
 
