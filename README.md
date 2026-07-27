@@ -141,11 +141,14 @@
 <br/><br/>
 
 <img src="https://github-readme-stats.vercel.app/api?username=harshitt2023&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshitt2023&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=harshitt2023&theme=tokyonight&hide_border=true" width="48%"/>
+
+<br/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=harshitt2023&theme=tokyonight" width="97%"/>
 
 </div>
 
-<sub>Note: the two cards above pull live from a free third-party stats API that occasionally rate-limits and shows a broken image — that's the API, not your file. The badges above them always render.</sub>
+<sub>Note: these cards pull live from free third-party stats APIs that occasionally rate-limit and show a broken image — that's the API, not your file. The badges above always render.</sub>
 
 ---
 
