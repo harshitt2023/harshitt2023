@@ -73,12 +73,18 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=harshitt2023&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshitt2023&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://img.shields.io/github/followers/harshitt2023?style=for-the-badge&color=6366F1&logo=github&labelColor=181717" />
+  <img src="https://img.shields.io/github/stars/harshitt2023?style=for-the-badge&color=6366F1&logo=github&labelColor=181717" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Top_Language-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Focus-AI%2FML%20%26%20GenAI-6366F1?style=for-the-badge" />
 </p>
 
+<!-- Live stats (may occasionally fail to load if the free API is rate-limited): -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=harshitt2023&theme=tokyonight&no-frame=true&row=1&column=6" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=harshitt2023&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshitt2023&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
