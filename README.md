@@ -23,7 +23,10 @@
 🤖 Hands-on experience in **RLHF, Supervised Fine-Tuning, and LLM evaluation** from real post-training work at Ethara AI.
 🚀 Building **full-stack AI products** end-to-end — from RecallIQ, an AI study assistant with LLM-powered flashcards and quizzes, to MediNow, a full-stack telemedicine platform.
 🧩 Focused on **Generative AI, RAG pipelines, and agentic workflows**.
-💡 Goal: engineer AI systems that don't just predict — they ship as real, working products.
+🚀 Goal: engineer AI systems that don't just predict — they ship as real, working products.
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212750999-42ff8a64-dad8-4772-9648-849968543991.gif" width="350px" />
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6366F1,100:8A2BE2&height=3" width="100%"/>
 
